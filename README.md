@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**dursoa23/dursoa23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# annadursof
+![octocat-1673015192858](https://user-images.githubusercontent.com/117922194/211618077-1c90afd4-7808-4dd4-9ac8-c62e0a457b7a.png)
+- 🔭 I’m currently working on a web design class in highschool 
+- 🌱 I’m currently learning the basics of web design 
+- 👯 I’m looking to collaborate on how to get people on your website 
+- 🤔 I’m looking for help with making my websites look nice 
+- 💬 Ask me about some of the porjects I hvae done before 
+- 📫 How to reach me: dursoa23@wpsma.org 
+- 😄 Pronouns: she/her/hers 
+- ⚡ Fun fact: I like baking! 
