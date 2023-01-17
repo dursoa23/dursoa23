@@ -9,3 +9,4 @@
 - 😄 Pronouns: she/her/hers 
 - ⚡ Fun fact: I like baking! 
 - 👑 View my work: https://github.com/dursoa23/portfolio/
+https://dursoa23.github.io/portfolio/index.html
