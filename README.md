@@ -8,3 +8,4 @@
 - 📫 How to reach me: dursoa23@wpsma.org 
 - 😄 Pronouns: she/her/hers 
 - ⚡ Fun fact: I like baking! 
+- 👑 View my work: https://github.com/dursoa23/portfolio/
